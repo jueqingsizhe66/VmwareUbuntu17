@@ -2,12 +2,14 @@
 学习vim,快速编辑文件
 
 # 次要目的：
+锻炼自己学习的能力
 
 
-得原谅我，并没有上传bundle文件夹，如果您真的要使用这个配置，忽略警告，进入vim，然后`Plug Install`即可
+<font color="red">得原谅我，并没有上传bundle文件夹</font>
+如果您真的要使用这个配置，忽略警告，进入vim，然后`Plug Install`即可
 
-[Learn-vim-progressively][2]
-[vim-as-IDE][1]
+1. [Learn-vim-progressively][2]
+2. [vim-as-IDE][1]
 
 ## visual align: (内容对齐)
 
@@ -32,12 +34,12 @@
 [unite][5]
 
 ## unite : let you search file in the project , flying^-^
-## useful command : 2 spaces
+### useful command : 2 spaces
 
 quick search
 .git项目(.svn，.hg等)里面搜索文件（采用vimproc的aync查找，windows下使用file_rec即可，不要使用vimproc的async功能,参考我的[windows版本][3]）
 
-## useful command : ,f
+### useful command : ,f
 
 open directory
 
@@ -68,6 +70,11 @@ Gdiff is good, let you know what is different.
 
 
 
+<hr/>
+<hr/>
+<hr/>
+<hr/>
+<hr/>
 
 
 
