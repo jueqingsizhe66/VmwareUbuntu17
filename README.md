@@ -9,7 +9,9 @@
 [Learn-vim-progressively][2]
 [vim-as-IDE][1]
 
-##visual align:
+## visual align: (内容对齐)
+
+[vim-easy-align][6]
 
 1. visual select
 2. Enter
@@ -335,3 +337,4 @@ Other configurations are also well organized in vimrc.
 [3]: https://github.com/jueqingsizhe66/windowVimYe
 [4]: https://github.com/ggreer/the_silver_searcher
 [5]: https://github.com/Shougo/unite.vim 
+[6]:://github.com/junegunn/vim-easy-align
